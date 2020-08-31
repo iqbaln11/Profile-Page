@@ -1,0 +1,10 @@
+body{
+    background-image: repeating-radial-gradient(red, orange, yellow, green, blue, purple);
+}
+
+.cat{
+    margin: 0px;
+    width: 1330px;
+    height: 635px;
+}
+
